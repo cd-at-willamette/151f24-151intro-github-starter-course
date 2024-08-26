@@ -1,0 +1,17 @@
+Intro assignment.
+
+This is a series of tasks formatted as a question (Q) and answer (A). Edit this text (.txt) file be providing an answer to each question.
+
+Q: "What is your @willamette.edu email address and how would you like me to refer to you?"
+
+A:
+
+Q: "Is there anything you'd like me to know to best support you in the course?"
+
+A: 
+
+Q: "Have you set up Python on a computer you can use for this course?"
+
+A: 
+
+Thank you! When you have answered these three questions, upload your file to Github Classroom.
