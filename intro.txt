@@ -2,7 +2,7 @@ Intro assignment.
 
 This is a series of tasks formatted as a question (Q) and answer (A). Edit this text (.txt) file be providing an answer to each question.
 
-Q: "What is your @willamette.edu email address and how would you like me to refer to you?"
+Q: "What is your @willamette.edu email address and how would you like me to refer to you (name, nickname, honorifics, pronouns, etc)?"
 
 A:
 
